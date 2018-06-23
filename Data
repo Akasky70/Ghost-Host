@@ -1,0 +1,71 @@
+============================================== TO DO =================================================
+========================================= Ghost Host UI ==============================================
+
+	main-container			:	1600px;
+	content-wrapper			:	1200px;
+	
+	header-section			:	100%;
+	header-wrapper			:	100% of content-wrapper;
+	logo-wrapper			:	138px * 30px;
+	header-navbar			:	float right and full | : 15.96 | lato medium
+	menu-items-gap			: 	70px;
+
+	banner-wrapper			:	100% of content-wrapper;
+	banner-text				:	445px | h1 myrid pro bold 72px | p georgia italic 32px
+	banner-text padding		:	345px;
+	banner-h1 lineheight	:	50px;
+
+	login-register-section	:	100% *	120px;
+	login-register-wrapper	:	100% of content-wrapper;
+	login or register-button:	800px | lato 22px line height 1.2;
+
+	form-section			:	100%;
+	form-wrapper			:	888px of content-wrapper;
+	form-wrapper top padding:	90px;
+	lineheight h1 			:	22px | lato heavy 24px;
+	text-space between		:	26px;
+	lineheight p 			:	16px | montserrat utralight 16px;
+	text-space-below		:	50px;
+	text-input-field		:	100% of form-wrapper * 50px | lato bold 15px | lato regular 14px;
+	input-field-below-gap	:	50px;
+	form-table				:	100% of form-wrapper * 194px;
+	form-cell				:	222px * 98px;
+
+	section-package			:	100%;
+	background-image		:	100% * 383px;
+	package-wrapper			:	100% of content-wrapper;
+	package-wrapper-padding	:	100px 0px;	
+	package-box				:	255px * 562px + border 4px | lato bold 16px;
+	package-box-gap			:	60px;
+	package-box-padding		:	28px 35px;
+	package-h1-padding-bot	:	20px + 1px border; lato 16 | price : lato 17px
+
+	section-about-us		:	100%;
+	about-us-wrapper		:	100% of content-wrapper
+	anout-us-wrapper-padding:	105px 0px; 
+	about-us-text			:	520px | lato 35px | lato thin 18px;
+	our-team				:	680px;
+	our-team-profile-box	:	114px | lato semibold 17px | lato regular 15px;
+	our-team-profile-box	:	14px padding;
+
+	testomonial-section		:	100%;
+	background-height		:	190px;
+	testomonial-text		:	885px | lato light/bold 20px;
+	testomonial-text-padding:	52px;
+
+	functions-section		:	100%;
+	function-wrapper		:	100% of content-wrapper
+	function-box			:	222px | lato light 16px | lato bold 18px;
+	function-box-gap		:	104px;
+	function-box-padding	:	100px;
+
+	footer-section			:	100%;
+	footer-wrapper			:	100% of content-wrapper
+	footer-navbar			:	100% * 75px + 1px border | lato medium 13px;
+	footer-navbar-padding	: 	32px;
+	footer-box-wrapper		:	100%;
+	footer-box-1			:	364px | lato 15px | 1.733;
+	footer-box-gap1			:	112px;
+	footer-box-2			:	376px;
+	footer-box-gap2			:	115px;
+	footer-box-3			:	232px;

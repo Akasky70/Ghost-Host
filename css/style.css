@@ -1,0 +1,319 @@
+.header-logo-navbar ul{
+	float:right;
+}
+
+.header-logo-navbar ul li{
+	list-style-type: none;
+	float: left;
+	/*background-color: red;*/
+	padding-top: 37px; 
+	padding-bottom: 33px;
+	margin-left: 69px;
+	display: block;
+
+}
+
+.header-logo-navbar ul li a{
+	text-decoration: none;
+	color:white;
+	font-family: "lato medium";
+	font-size: 0.9975em;
+}
+.header-logo-navbar ul li:hover{
+
+	border-bottom: 1px solid red;
+	margin-bottom: -1px; /*it pulls up the parent border and make same line*/	
+}
+.header-logo-navbar ul li:hover a{
+
+	color:red;	
+}
+.active-top-navbar{
+	border-bottom: 1px solid white;
+	margin-bottom: -1px; /*it pulls up the parent border and make same line*/
+}
+
+/* =================== banner secrtion ====================*/
+.banner-text{
+	width:100%;
+	
+	margin: 0 auto;
+	color:white;
+	/*background-color: red;*/
+}
+
+.banner-text h1{
+	font-family: "myriad pro";
+	font-weight: bold;
+	line-height: 50px;
+	text-align: center;
+	font-size: 4.5em; /*75px*/
+	margin-bottom:15px;
+}
+
+.banner-text p{
+	font-family: "georgia";
+	text-align: center;
+	font-size: 2em;
+	font-style: italic;
+	line-height: 48px;
+
+}
+
+/*=================== login register ======================*/
+.login-register-button p{
+	font-family:"lato-regular";
+	font-size:1.375em;
+	text-align: center;
+	
+}
+
+.login-register-button a{
+	text-decoration: none;
+	color: white;
+}
+
+.login :hover a{
+	color:red;
+}
+.register :hover a{
+	color:red;
+}
+
+/*==================== form style =========================*/
+.form-wrapper h3{
+	font-family: "lato";
+	font-size: 1.5em;
+	text-align: center;
+}
+.form-wrapper p{
+	
+	font-family: 'Montserrat Ultra Light';
+	font-size: 0.9999em;
+	text-align: center;
+	text-align: left;
+	margin: 20px 0px;
+}
+
+.input-form{
+	width: 100%;
+	/*background-color: red;*/
+	margin-top: 48px;
+	border: 1px solid #cccccc;
+	padding: 8px 0px;
+	color: #cccccc;
+	
+}
+
+.input-field{
+	width:78.7%; /*732px*/
+	font-family: "lato";
+	font-weight: bold;
+	font-size: 0.9375em;
+	padding: 7px  15px;
+	border: none;
+	border-right: 1px solid #cccccc;
+	border-left: 1px solid #cccccc;
+	/*background: blue;*/
+
+}
+
+.input-field:focus{
+	outline: none;
+}
+
+.select-box:focus{
+	outline: none;
+}
+.select-box{
+	width: 9.7%;
+	border: none;
+	font-family: "lato";
+	font-size: 0.9375em;
+	padding: 7px 14px;
+	float: right;
+	/*background: red;*/
+   -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background-image: url("../images/dropdown.png");
+    background-repeat: no-repeat;
+    background-size: 10px 10px;
+    background-position: 80% 50%;
+    color: #cccccc;
+    
+}
+
+.www-box{
+	width: 5.91666%;
+	font-family: "lato";
+	font-size: 0.9375em;
+	padding: 14px;
+}
+
+/*table*/
+.form-table{
+	margin-top: 40px;
+	width: 100%;
+	/*border: 1px solid #cccccc;*/
+	background-image: url("../images/table_design.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+.form-table tr td{
+	width:20%;
+	text-align: center;
+	font-family: "lato";
+	font-size: 0.875em;
+	padding-top: 40px;
+	padding-bottom: 37px;
+	color: #cccccc;	
+}
+
+
+/*====================== package ===================================*/
+.package-box{
+	width:16.75%;
+	/*height: 140px;*/
+	background-color: white;
+	float: left;
+	padding: 34px 2.25% 34px 2.25%;
+	box-shadow: 0px 1px 4px #cccccc;
+}
+
+.package-box-icon{
+	width: 100%;
+	/*background-color: blue;*/
+
+}
+.package-box-icon img{
+	width:57px;
+	margin: auto;
+	padding-right: 5px;
+}
+.margin-right{
+	margin-right:4.98%;
+}
+
+.basic{
+	border-top:5px solid #f9d423;
+}
+.basic a:hover {
+	color:#f9d423;
+}
+.normal{
+	border-top:5px solid #7f8c8d;
+	
+}
+.normal a:hover {
+	color:#7f8c8d;
+}
+.big{
+	border-top:5px solid #f85f40;
+	
+}
+.big a:hover {
+	color:#f85f40;
+}
+.biggest{
+	border-top:5px solid #1abc9c;
+	
+}
+.biggest a:hover {
+	color:#1abc9c;
+}
+.package-details h1{
+	font-family: "lato";
+	/*font-weight: bold;*/
+	font-size: 1em;
+	text-align: center;
+	padding: 18px 0px 15px 0px;
+	border-bottom: 1px solid #cccccc;
+}
+
+.package-details a h1{
+	border: none;
+}
+
+.package-details a {
+	text-decoration: none;
+	color:black;
+}
+
+.package-details h2{
+	font-family: "lato";
+	/*font-weight: bold;*/
+	width:45%;
+	font-size: 1.6875em; /*25px*/
+	text-align: center;
+	margin: 0 auto;
+	padding: 31px 0px 1px 12px;
+	/*background: blue;*/
+	position: relative;
+
+}
+
+.basic-border{
+	border-bottom: 3px solid #f9d423;
+}
+.normal-border{
+	border-bottom: 3px solid #7f8c8d;
+}
+.big-border{
+	border-bottom: 3px solid #f85f40;
+}
+.biggest-border{
+	border-bottom: 3px solid #1abc9c;
+}
+
+.lower-case-per-month{
+	font-size: 14px;
+}
+
+.price-unit{
+	font-weight: 1000;
+	font-size: 16px;
+	position: absolute;
+	left: 15px;
+	top:34px;
+
+}
+
+.package-details-table{
+	width:100%;
+	border-bottom: 1px solid #cccccc;
+	padding: 6px 0px 7px 0px;
+
+}
+
+.package-details-table tr td{
+	font-family: "lato regular";
+	font-size: 0.875em;
+	color: black;
+	padding: 8px 0px 7px 0px;
+}
+
+.basic-package-price p{
+	text-align: right;
+	font-weight: bold;
+	color:#f9d423;
+}
+
+.normal-package-price p{
+	text-align: right;
+	font-weight: bold;
+	color:#7f8c8d;
+}
+
+.big-package-price p{
+	text-align: right;
+	font-weight: bold;
+	color:#f85f40;
+}
+
+.biggest-package-price p{
+	text-align: right;
+	font-weight: bold;
+	color:#1abc9c;
+}
