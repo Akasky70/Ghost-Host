@@ -22,6 +22,7 @@
 /*============= heade section ==================*/
 .header-section{
 	width:100%;
+	min-width: 1200px;
 	/*background-color: blue;*/
 	background-image: url("../images/homebg.jpg");
 	background-repeat: no-repeat;
@@ -129,59 +130,73 @@
 .about-us-wrapper{
 	width:100%;
 	/*background-color: yellow;*/
-	padding: 105px 0px;
+	padding: 105px 0px 95px 0px;
 }
 
 /* ============ testominial section =====================*/
 .testomonial-section{
 	width:100%;
-	background-color: green;
+	/*background-color: green;*/
+	background-image: url("../images/commnsbg.jpg");
+	background-repeat:no-repeat;
 
 }
 
 .testomonial-wrapper{
 	width:100%;
-	background-color: olive;
+	/*background-color: olive;*/
 }
 
 .testomonial-text{
-	width: 73.75%;
-	background-color: purple;
+	width: 76.365%;
+	/*background-color: purple;*/
 	margin: 0 auto;
-	padding: 52px 0px;
+	padding: 47px 0px 32px 0px;
 }
 
 /*================ function section ====================*/
 .functions-section{
 	width:100%;
-	background-color: red;
+	/*background-color: red;*/
 
 }
 
 .function-wrapper{
 	width:100%;
-	background-color: green;
-	padding: 100px 0px;
+	/*background-color: green;*/
+	padding: 98px 0px 94px 0px;
 }
 
 /*================= footer section ====================*/
 .footer-section{
 	width:100%;
-	background-color: yellow;
+	background-color: #2a2a2a;
 
 }
 
 .footer-wrapper{
 	width:100%;
-	background-color: olive;
+	/*background-color: olive;*/
 
 }
 .footer-navbar{
 	width:100%;
+	border-bottom: 1px solid #666666;
 
 }
+
 .footer-navbar-list{
 	width:87%;
-	background-color: green;
+	/*background-color: green;*/
 	float: right;
+}
+.footer-logo-wrapper{
+	width: 11.83333333333%;	/*138px*/
+	float:left;
+	padding-top: 22px;
+	padding-left:1px;
+}
+.footer-box-wrapper{
+	width:100%;
+	padding: 52px 0px;
 }

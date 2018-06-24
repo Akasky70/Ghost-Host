@@ -44,7 +44,7 @@
 	about-us-wrapper		:	100% of content-wrapper
 	anout-us-wrapper-padding:	105px 0px; 
 	about-us-text			:	520px | lato 35px | lato thin 18px;
-	our-team				:	680px;
+	our-team				:	679px; 1px border
 	our-team-profile-box	:	114px | lato semibold 17px | lato regular 15px;
 	our-team-profile-box	:	14px padding;
 
@@ -62,7 +62,7 @@
 	footer-section			:	100%;
 	footer-wrapper			:	100% of content-wrapper
 	footer-navbar			:	100% * 75px + 1px border | lato medium 13px;
-	footer-navbar-padding	: 	32px;
+	footer-navbar-padding	: 	28px 0px;
 	footer-box-wrapper		:	100%;
 	footer-box-1			:	364px | lato 15px | 1.733;
 	footer-box-gap1			:	112px;
