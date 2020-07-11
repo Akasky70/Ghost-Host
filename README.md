@@ -1,3 +1,4 @@
-# Ghost-Host
+### Ghost Host
 UI Design for Web Template
-https://akasky70.github.io/Ghost-Host/
+
+https://akasrai.github.io/ghost-host/
